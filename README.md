@@ -1,4 +1,4 @@
-# Result.txt-
+# Results.txt-
 Week 1 practical task (done 7 days ago emailed stuff already) 
 
 Results for test.df week 1 practical:
